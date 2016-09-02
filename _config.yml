@@ -16,5 +16,9 @@ author:
   email: info@surathletics.com
 logo: null
 name: De Sportwinkel van Letitia Vriesde
+navigation:
+  - name: Facebook
+    url: 'https://www.facebook.com/sportwinkelvanletitia/'
+    type: external
 title: Do What You Love and Love What You Do
 description: Wij zien u graag bij de Sportwinkel van Letitia Vriesde
