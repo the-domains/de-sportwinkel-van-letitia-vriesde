@@ -1,4 +1,3 @@
-layout_spectrum: 0.48154542595148087
 typography_spectrum: 0.2449184968136251
 color:
   brandStrength: 0.7437506900168955
@@ -6,9 +5,14 @@ color:
   saturation: 0.08024826808832586
   rhythmicContrast: 0.04666536953300238
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#22AAE2'
+    - '#231F20'
+    - '#7B7A7A'
+    - '#A4A3A3'
+layout_spectrum: 0.48154542595148087
+author:
+  name: SurAthletics NV
+  email: info@surathletics.com
+logo: null
 name: De Sportwinkel van Letitia Vriesde
